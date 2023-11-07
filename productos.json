@@ -1,0 +1,57 @@
+[
+    {
+		"id": 1,
+        "nombre":"juan",
+		"precio":1.2,
+		"stock":25,
+		"codigo":"abdk",
+		"publicado":true,
+		"fecha_de_creacion": "25-10-69"
+	},
+    {
+		"id": 2,
+        "nombre":"pepe",
+		"precio":1.8,
+		"stock":20,
+		"codigo":"jshjdkdjd",
+		"publicado":true,
+		"fecha_de_creacion": "26-10-69"
+	},
+    {
+		"id": 3,
+        "nombre":"juan2",
+		"precio":1.6,
+		"stock":26,
+		"codigo":"abdkhsdjads",
+		"publicado":false,
+		"fecha_de_creacion": "25-10-89"
+	},
+    {
+		"id": 1,
+        "nombre":"juanf",
+		"precio":1.8,
+		"stock":3,
+		"codigo":"fgj",
+		"publicado":false,
+		"fecha_de_creacion": "25-10-79"
+	},
+    {
+		"id": 1,
+        "nombre":"juan",
+		"precio":1.9,
+		"stock":25,
+		"codigo":"abop",
+		"publicado":true,
+		"fecha_de_creacion": "25-10-69"
+	},
+    {
+		"id": 1,
+        "nombre":"mafe",
+		"precio":1.9,
+		"stock":19,
+		"codigo":"abdk",
+		"publicado":true,
+		"fecha_de_creacion": "25-10-69"
+	}
+    
+]
